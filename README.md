@@ -1,1 +1,1 @@
-# python-chatting-app
+# python-chat-app
